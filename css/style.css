@@ -191,3 +191,167 @@ form label {
 .policy {
     text-decoration: underline;
 }
+
+
+
+
+
+/* login */
+
+.login-container {
+    display: flex;
+    align-items: center;
+}
+
+.left {
+    margin-left: 175px;
+}
+
+.left-title {
+    color: #000;
+    font-size: 32px;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+.left-text {
+    color: #000;
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 59px;
+}
+
+.log-in {
+    display: block;
+    border-radius: 10px;
+    border: 1px solid #D9D9D9;
+    width: 404px;
+    padding: 10px 0px 10px 10px;
+    margin-bottom: 20px;
+    color: var(--muted, #D9D9D9);
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.password-input {
+    background: white;
+}
+
+form label {
+    color: #000;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.forgot {
+    color: var(--action-sec, #0C2A92);
+    font-size: 15px;
+    font-weight: 500;
+    text-decoration: none;
+    margin-left: 200px;
+}
+
+.remember-div {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.remember-text {
+    margin-left: 10px;
+    color: #000;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+
+.login {
+    border-radius: 10px;
+    border: 1px solid #3A5B22;
+    background: #3A5B22;
+    padding: 6px 185px;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
+    margin-bottom: 45px;
+    display: block;
+    width: 400px;
+}
+
+.span span {
+    border-bottom: 2px solid #F5F5F5;
+    width: 170px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.span {
+    display: flex;
+    align-items: center;
+    margin-bottom: 60px;
+}
+
+.span-text {
+    color: #000;
+    font-size: 9px;
+    font-weight: 500;
+}
+
+.link-google-apple {
+    display: flex;
+    align-items: center;
+    margin-bottom: 22px;
+}
+
+.google {
+    border-radius: 10px;
+    border: 1px solid var(--muted, #D9D9D9);
+    color: #000;
+    font-size: 12px;
+    font-weight: 500;
+    text-decoration: none;
+    padding: 5px 20px;
+    display: flex;
+    align-items: center;
+}
+
+.apple {
+    border-radius: 10px;
+    border: 1px solid var(--muted, #D9D9D9);
+    color: #000;
+    font-size: 12px;
+    font-weight: 500;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    padding: 5px 20px;
+    margin-left: 23px;
+    /* display: block; */
+}
+
+.account {
+    color: #000;
+    font-size: 14px;
+    font-weight: 500;
+    margin-left: 70px;
+}
+
+.right img {
+   width: 550px;
+}
+
+.right {
+    margin-left: 350px;
+}
+
+.signup {
+    color: #0F3DDE;
+    font-size: 14px;
+    font-weight: 500;
+    text-decoration: none;
+    margin-left: 10px;
+}
