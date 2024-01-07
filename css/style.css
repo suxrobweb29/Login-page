@@ -341,11 +341,12 @@ form label {
 }
 
 .right img {
-   width: 550px;
+   width: 490px;
+   height: 650px;
 }
 
 .right {
-    margin-left: 350px;
+    margin-left: 260px;
 }
 
 .signup {
