@@ -317,6 +317,7 @@ form label {
     padding: 5px 20px;
     display: flex;
     align-items: center;
+    justify-content: space-between;
 }
 
 .apple {
@@ -330,7 +331,12 @@ form label {
     align-items: center;
     padding: 5px 20px;
     margin-left: 23px;
-    /* display: block; */
+
+}
+
+.link-google-apple img{
+    margin-right: 10px;
+
 }
 
 .account {
